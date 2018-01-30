@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 02e5b3e878be0174289ae7a1edab337d
+timeCreated: 1516474054
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - midAteroid: {fileID: 141316, guid: 84cc3cd234dfc9d4d9d2e92c0eb0af75, type: 2}
+  - smallAteroid: {fileID: 151664, guid: fa49e460baf435b4780da7196c2ab473, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Shooter", "VR Shooter.csproj", "{47AC15E9-597E-7EA6-D84B-E50236B14F7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Shooter.Editor", "VR Shooter.Editor.csproj", "{F5295CE7-E950-A462-EAFA-C7E886E3822E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47AC15E9-597E-7EA6-D84B-E50236B14F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47AC15E9-597E-7EA6-D84B-E50236B14F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47AC15E9-597E-7EA6-D84B-E50236B14F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47AC15E9-597E-7EA6-D84B-E50236B14F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5295CE7-E950-A462-EAFA-C7E886E3822E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5295CE7-E950-A462-EAFA-C7E886E3822E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5295CE7-E950-A462-EAFA-C7E886E3822E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5295CE7-E950-A462-EAFA-C7E886E3822E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
